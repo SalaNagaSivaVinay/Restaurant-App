@@ -1,0 +1,14 @@
+public
+src
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore
+.npmrc
+.pnpm-debug.log
+.prettierignore
+.prettierrc
+.projectConfig.json
+README.md
+package.json
+pnpm-lock.yaml
